@@ -14,3 +14,16 @@ Freelancer platform for charitable electronic work
 
 Abstract: 
 People willing to volunteer for a cause, often faces hurdle of finding options of the organizations who conduct such volunteer program or work. This leads to the volunteers signing up on the first website they find on a google search or an organization which is nearby. In this project, we are planning to create a platform for multiple organization with multiple causes and events to post their volunteer work/program. A person, who is willing to volunteer, will have ample options to select the volunteer work he/she wants to pursue, based on his/her talent and interest. The volunteer programs will have a wide range of work including creating a database, spreadsheet, grading papers, volunteering to organize community events etc. The work which is already assigned will no longer be visible on the available work forum. A person can volunteer for multiple work with a maximum limit of four work at a time. The work will be assigned to the next available person on the wait list if the volunteer responsible does not finish the given job. Badges will be awarded to the volunteers on social media website such as Facebook and employment oriented social media website LinkedIn, after completion of their work. 
+
+Project Idea 3
+Title:
+IoT Sensor Chatbot
+
+Abstract:
+Using IBM Bluemix (Node-RED, Watson IoT Platform, dashDB and Watson Conversation), we will create a chatbot allowing us to ask a sensor questions like: What was the average temperature value you recorded ?, or How bright is day light now ? 
+
+Use Cases :
+
+-At home: ask what the average temperature in a room was during a given day, then adjust the start/end time of your heating or air-co depending on that. This could save costs …
+
+-In any industrial environment (e.g. Mining) where Workers Health & Safety is key: what if in the case of a crisis situation, every member of an Operations Centre had the abilty to ask in plain English: ‘What was this Worker’s IoT helmet latest temperature, movement, CO2 level recorded‘ ? This could save lives … 
